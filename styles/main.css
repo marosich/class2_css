@@ -11,3 +11,43 @@
 h1 {
 	color: red;
 }
+a {
+	color: green;
+}
+
+.fun {
+	color: red;
+}
+
+#foo {
+	color: #ffee00;
+}
+
+.boss {
+	color: black;
+}
+
+.boss.fun {
+	color: #0044ff;
+}
+
+a.boss {
+
+}
+
+p {
+	margin: 20px;
+	border: 20px solid black;
+	padding: 20px;
+	height: auto;
+	width: 180px;
+}
+
+span { display: block;
+width: 400px}
+body {font-family: arial}
+
+
+
+
+
